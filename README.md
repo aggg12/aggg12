@@ -19,11 +19,9 @@ I’m a full-stack developer fueled by a fascination with **AI** and the occasio
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?logo=apachekafka&logoColor=white)
 ![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white)
 
